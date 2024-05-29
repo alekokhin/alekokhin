@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eliso and I'm a developer, from Georgia</p>
+<p align="left">My name is Aleko and I'm a developer, from Georgia</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🔭 I’m currently working on a CVMaker, ChatterVerse<br>🎲 Fun fact: I listen to music when I work or study</p>
+<p align="left">✨ Creating bugs since 2021<br>🎲 Fun fact: I listen to music when I work or study</p>
 
 ###
 
